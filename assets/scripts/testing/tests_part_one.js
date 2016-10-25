@@ -75,10 +75,10 @@ var t = {
     },
     {
       title: 'function with one parameter',
-      prompt: 'There should be a function called greetName that takes a name as a parameter. When invoked, it should return the string "Hello <name>" where <name> is the parameter passed in.',
+      prompt: 'There should be a function called greetName that takes a name as a parameter. When invoked, it should return the string "Hello Jane" when Jane is passed in as an argument',
       target: 'greetName',
       type: 'func',
-      expected: 'Hello'
+      expected: 'Hello Jim'
     },
   ]
 };
