@@ -13,6 +13,17 @@ width: ;
 float: left;
 }
 #main {
-width: ;
+width: 200px;
 float: right;
+}
+aside {
+	width: 200px;
+	float: left;
+}
+nav li {
+list-style-type: none;
+font-family: monospace; 
+}
+h1 {
+	color: mediumaquamarine;
 }
